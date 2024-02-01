@@ -17,7 +17,7 @@
   <li>git commit -m "pesan" </li>
   <li>git push -u origin update (sesuai branch) </li>
   <li>
-    <h1>Pindah coding di Branch Update Ke Main</h1>h1>
+    <h1>Pindah coding di Branch Update Ke Main</h1>
   </li>
   <li>setelah berhasil akan muncul dihalaman github tombol compare&pull request</li>
   <li>tekan tombolnya dan cek apakah ada konflik di codingnya sebelum di pull request</li>
