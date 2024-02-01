@@ -1,10 +1,10 @@
-setup github pertama
-git init
-git add *
-git commit -m "tes"
-git branch -m main (tergantung branch)
-git remote add origin https
-git remote -v
-git push -u origin main (tergantung branch)
+setup github pertama <br>
+git init <br>
+git add * <br>
+git commit -m "tes" <br>
+git branch -m main (tergantung branch) <br>
+git remote add origin https <br>
+git remote -v <br>
+git push -u origin main (tergantung branch) <br>
 
 Anyong
