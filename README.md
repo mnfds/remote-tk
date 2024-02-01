@@ -16,6 +16,15 @@
   <li>git status (memeriksa file sudah warna hijau atau belum) </li>
   <li>git commit -m "pesan" </li>
   <li>git push -u origin update (sesuai branch) </li>
+  <li>
+    <h1>Pindah coding di Branch Update Ke Main</h1>h1>
+  </li>
+  <li>setelah berhasil akan muncul dihalaman github tombol compare&pull request</li>
+  <li>tekan tombolnya dan cek apakah ada konflik di codingnya sebelum di pull request</li>
+  <li>bisa juga dirubah tujuan branchnya jika diinginkan</li>
+  <li>
+    setelah ditekan tombol create pull request silahkan dicek semua updatenya dan jika sudah silahkan tekan merge request untuk pindah dari branch update ke main
+  </li>
 </ul>
 
 Anyong
